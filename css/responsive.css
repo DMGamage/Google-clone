@@ -1,0 +1,17 @@
+
+
+@media all and (max-width: 475px) {
+    header {
+        justify-content: center;
+    }
+}
+@media all and (min-width: 390px){
+
+    .foot-left{
+        flex-wrap:wrap;
+        justify-content: center;
+    }
+    .foot-wrapper{
+        flex-direction: column;
+    }
+}
